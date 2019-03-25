@@ -1,6 +1,6 @@
 # 项目管理与作业发布
 
-## 人员责任划分
+### 人员责任划分
 
 | 人员   | 方向 | 职责                  |
 | ------ | ---- | --------------------- |
@@ -13,7 +13,7 @@
 | 王建   | 后台 |                       |
 | 郑超强 | 后台 |                       |
 
-## 项目文档查看
+### 项目文档查看
 
 [项目规划](https://system-design2019.github.io/files/About)
 
@@ -23,7 +23,7 @@
 
 [项目愿景](https://system-design2019.github.io/files/Vison)
 
-[产品特性](https://system-design2019.github.io/files/Product_backlog)
+[产品特性](https://system-design2019.github.io/files/Product_Backlog)
 
 [会议记录](https://system-design2019.github.io/files/Meeting_record)
 
