@@ -12,6 +12,8 @@
 
 [会议记录](https://system-design2019.github.io/files/Meeting_record)
 
+[产品需求文档](https://shimo.im/docs/1Eaaby4ENIMhwtyK/)
+
 ### 人员责任划分
 
 | 人员   | 方向 | 职责                  |
